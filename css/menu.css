@@ -9,7 +9,7 @@ html {
   background-color: black;
   font-weight: lighter;
   font-family: 'Arial', serif;
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/menubackground.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: left top;
@@ -33,4 +33,9 @@ a {
 
 li {
   text-align: center;
+  border-right: 2px solid white;
+}
+
+body {
+  padding-top: 17em;
 }
